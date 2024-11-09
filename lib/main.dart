@@ -1,5 +1,1 @@
-void main() {
-  runApp(
-    const MainActivity(),
-  );
-}
+RIRIN BPC
